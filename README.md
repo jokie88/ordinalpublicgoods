@@ -9,3 +9,4 @@ Caution: These libraries are NOT vetted and may contain issues/malware. Please b
 | gunzip in fflate | 2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0 | gzip | need to do inscription.split("\n")[28] |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | p5.js | 255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0 | gzip | need to unzip | [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | html2canvas 1.4.1 | be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0 | none | | [king bootoshi](https://twitter.com/KingBootoshi/status/1670534828922400768?s=20)
+|jquery 3.7.0 | 773e4865bcf3084e6d6ee5d49136fb5f7071d4c050ec4aeeaeb9c6d24fea5fc1i0 | none | | [inscribed.space](https://twitter.com/InscribedSpace/status/1671541360703205381?s=20)
