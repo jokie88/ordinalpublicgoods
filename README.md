@@ -15,3 +15,6 @@ Caution: These libraries are NOT vetted and may contain issues/malware. Please b
 | gunzip in fflate | 2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0 | gzip | need to do inscription.split("\n")[28] |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | Three.js | 2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0 | gzip | to extract and use: inscription.split("\n")[32] fflate.strFromU8(fflate.gunzipSync(new Uint8Array(Array.from(atob(d3)).map((char)=>char.charCodeAt(0))))) |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | p5.js | 255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0 | gzip | need to unzip | [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
+| matter0js 0.19.0 | 9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0 | none | | [found on ord.io](https://www.ord.io/11774132)
+| webGL-fluid-simulation | 3af8500b444c7f589fca666fe317e1f95c7226d49dc23f8a4b86093f01f3e7adi0 | none | | [found on ord.io](https://www.ord.io/11846310)
+| axios min js | 6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0 | none | | [found on ord.io](https://www.ord.io/12399396)
