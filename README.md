@@ -1,6 +1,7 @@
-# ordinalpublicgoods
-A list of resources inscribed on bitcoin 
+# Ordinal Public goods
+A list of resources (js libraries, etc) inscribed on bitcoin. Feel free to create a pull request to add to it. Its just text so anyone can do it!
 
+Caution: These libraries are NOT vetted and may contain issues/malware. Please be cautious when opening and using these files and look at the source. 
 
 | Library | Inscription ID | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
