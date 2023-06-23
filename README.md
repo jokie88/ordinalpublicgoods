@@ -12,3 +12,6 @@ Caution: These libraries are NOT vetted and may contain issues/malware. Please b
 |jquery 3.7.0 | 773e4865bcf3084e6d6ee5d49136fb5f7071d4c050ec4aeeaeb9c6d24fea5fc1i0 | none | | [inscribed.space](https://twitter.com/InscribedSpace/status/1671541360703205381?s=20)
 |fflate 0.8.0 | f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0 | none | | [harry.xbt](https://twitter.com/hbeckeri/status/1671917397832335361?s=20)
 | Google model viewer 3.1.1 | 547a6709441bc5c9d206150ce5fb7605c28a90c46bd6e4330c4420cb41477aeai0 | none | see tweet for useage | [harry.xbt](https://twitter.com/hbeckeri/status/1671917397832335361?s=20)
+| Apache 2.0 | 3a4575b2a8fe6e7968146f290d494c2346d40ff692314050babcaa7268347f4bi0 | none | untested |  inscribed.space
+| Moment.js 2.29.1 | b90b4516ea1a0b882e67387eb4f3e5def0307704b046e8ef98c5e72092c47eedi0 | none | | inscribed.space 
+| Bootstrap 5.3.0 | 3bcfdc4e97209ecaaab06705b52ba6b7fc9d1cee77404ac15e655ce691a44654i0 | none | | inscribed.space
