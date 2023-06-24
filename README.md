@@ -19,6 +19,7 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | matter0js 0.19.0 | 9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0 | none | | [found on ord.io](https://www.ord.io/11774132)
 | webGL-fluid-simulation | 3af8500b444c7f589fca666fe317e1f95c7226d49dc23f8a4b86093f01f3e7adi0 | none | | [found on ord.io](https://www.ord.io/11846310)
 | axios min js | 6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0 | none | | [found on ord.io](https://www.ord.io/12399396)
+| tone.js v14.7.77? | 44740a1f30efb247ef41de3355133e12d6f58ab4dc8a3146648e2249fa9c6a39i0 | none | | [found on ord.io](https://www.ord.io/13316104)
 
 ## Contribute
-See a resource that isn't here yet? Edit this page by clicking the pencil icon!
+Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
