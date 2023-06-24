@@ -1,7 +1,8 @@
 # Ordinal Public Goods
-A list of resources (js libraries, etc) inscribed on bitcoin. Feel free to create a pull request to add to it. Its just text so anyone can do it!
+A list of js libraries and other resources inscribed on bitcoin. Use it to lower the cost of your inscriptions. 
 
-Caution: These libraries are NOT vetted and may contain issues/malware. Please be cautious when opening and using these files and look at the source. 
+> **Warning**
+> These libraries are NOT vetted. Be cautious when opening and using these inscriptions. 
 
 | Library | Inscription ID | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
@@ -18,3 +19,6 @@ Caution: These libraries are NOT vetted and may contain issues/malware. Please b
 | matter0js 0.19.0 | 9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0 | none | | [found on ord.io](https://www.ord.io/11774132)
 | webGL-fluid-simulation | 3af8500b444c7f589fca666fe317e1f95c7226d49dc23f8a4b86093f01f3e7adi0 | none | | [found on ord.io](https://www.ord.io/11846310)
 | axios min js | 6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0 | none | | [found on ord.io](https://www.ord.io/12399396)
+
+## Contribute
+See a resource that isn't here yet? Edit this page by clicking the pencil icon!
