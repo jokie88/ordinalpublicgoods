@@ -19,7 +19,9 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | matter0js 0.19.0 | 9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0 | none | | [found on ord.io](https://www.ord.io/11774132)
 | webGL-fluid-simulation | 3af8500b444c7f589fca666fe317e1f95c7226d49dc23f8a4b86093f01f3e7adi0 | none | | [found on ord.io](https://www.ord.io/11846310)
 | axios min js | 6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0 | none | | [found on ord.io](https://www.ord.io/12399396)
-| tone.js v14.7.77? | 44740a1f30efb247ef41de3355133e12d6f58ab4dc8a3146648e2249fa9c6a39i0 | none | | [found on ord.io](https://www.ord.io/13316104)
+| tone.js 14.7.77? | 44740a1f30efb247ef41de3355133e12d6f58ab4dc8a3146648e2249fa9c6a39i0 | none | | [found on ord.io](https://www.ord.io/13316104)
+| cropper.js 1.5.6 | b00cfb90d712ab0c5fd80580629c1910538859e55b9a9d6306f734420f3721f5i0 | none | | [found on ord.io](https://www.ord.io/13345027)
+| popper.js/core 2.11.8 | dcb205828669fece54d4040224190838bbe22b6d137ae9fc38c4b42f0777148ai0 | none | | [found on ord.io](https://www.ord.io/11821277)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
