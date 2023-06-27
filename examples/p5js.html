@@ -20,26 +20,29 @@
 
     window.p5LoadedPromise.then(() => {
       console.log('p5.js has been loaded');
+      let W = window
 
-      //horrible hack to load a new p5js instance. someone pls simplify it...
-      const s = ( p5 ) => {
-        p5.setup = () => {
-          p5.createCanvas(400, 400);
-        }
-
-        p5.draw = () => {
-          p5.background(220);
-        }
+      W.setup = () => {
+        createCanvas(400, 400);
+        console.log("------- yo");
       }
 
-      let myp5 = new p5(s); 
+
+      W.draw = () => {
+        console.log("xxx");
+        background(220);
+        fill(0)
+        ellipse(width / 2, height / 2, 20, 20)
+      }
 
     }).catch((err) => {
       console.error('Failed to load p5.js:', err);
     });
   });
 </script>
+<script>
 
+</script>
 <body>
 </body>
 </html>
