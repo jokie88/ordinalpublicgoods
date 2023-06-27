@@ -1,0 +1,42 @@
+<html>
+<script type="module">
+  //note: the "http://ordinals.com" needs to be removed from this file when inscribing. they're left in for development convenience
+  import('http://ordinals.com/content/f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0').then(async (fflate) => {
+    window.p5LoadedPromise = new Promise(async (resolve, reject) => {
+      try {
+        const res = await fetch('http://ordinals.com/content/255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0');
+        const base64Data = await res.text();
+        const compressed = Uint8Array.from(atob(base64Data), c => c.charCodeAt(0));
+
+        const inflated = fflate.gunzipSync(compressed);
+        const p5 = new TextDecoder().decode(inflated);
+        eval(p5);
+
+        resolve();  // Resolve the promise
+      } catch (err) {
+        console.error(err);
+        reject(err);  // Reject the promise
+      }
+    });
+
+    window.p5LoadedPromise.then(() => {
+      console.log('p5.js has been loaded');
+
+      // your ps5.js code here
+      function setup() {
+        createCanvas(400, 400);
+      }
+
+      function draw() {
+        background(220);
+      }
+
+    }).catch((err) => {
+      console.error('Failed to load p5.js:', err);
+    });
+  });
+</script>
+
+<body>
+</body>
+</html>
