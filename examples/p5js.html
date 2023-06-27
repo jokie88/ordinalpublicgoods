@@ -1,6 +1,5 @@
 <html>
 <script type="module">
-  //note: the "http://ordinals.com" needs to be removed from this file when inscribing. they're left in for development convenience
   import('http://ordinals.com/content/f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0').then(async (fflate) => {
     window.p5LoadedPromise = new Promise(async (resolve, reject) => {
       try {
@@ -22,14 +21,18 @@
     window.p5LoadedPromise.then(() => {
       console.log('p5.js has been loaded');
 
-      // your ps5.js code here
-      function setup() {
-        createCanvas(400, 400);
+      //horrible hack to load a new p5js instance. someone pls simplify it...
+      const s = ( p5 ) => {
+        p5.setup = () => {
+          p5.createCanvas(400, 400);
+        }
+
+        p5.draw = () => {
+          p5.background(220);
+        }
       }
 
-      function draw() {
-        background(220);
-      }
+      let myp5 = new p5(s); 
 
     }).catch((err) => {
       console.error('Failed to load p5.js:', err);
