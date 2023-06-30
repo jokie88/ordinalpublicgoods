@@ -22,6 +22,8 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | tone.js 14.7.77? | 44740a1f30efb247ef41de3355133e12d6f58ab4dc8a3146648e2249fa9c6a39i0 | none | | [found on ord.io](https://www.ord.io/13316104)
 | cropper.js 1.5.6 | b00cfb90d712ab0c5fd80580629c1910538859e55b9a9d6306f734420f3721f5i0 | none | | [found on ord.io](https://www.ord.io/13345027)
 | popper.js/core 2.11.8 | dcb205828669fece54d4040224190838bbe22b6d137ae9fc38c4b42f0777148ai0 | none | | [found on ord.io](https://www.ord.io/11821277)
+| greensock GSAP 3.6.1 | 6577ec768235a2a911e91a115b964618581bde91d99bc58f5c7390fdfb155ae6i0 | none | may need license? | [found on ord.io](https://www.ord.io/14150095)
+
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
