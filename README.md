@@ -23,6 +23,7 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | cropper.js 1.5.6 | b00cfb90d712ab0c5fd80580629c1910538859e55b9a9d6306f734420f3721f5i0 | none | | [found on ord.io](https://www.ord.io/13345027)
 | popper.js/core 2.11.8 | dcb205828669fece54d4040224190838bbe22b6d137ae9fc38c4b42f0777148ai0 | none | | [found on ord.io](https://www.ord.io/11821277)
 | greensock GSAP 3.6.1 | 6577ec768235a2a911e91a115b964618581bde91d99bc58f5c7390fdfb155ae6i0 | none | may need license? | [found on ord.io](https://www.ord.io/14150095)
+| algoliasearch 4.18.0 algoliasearch.umd.js | c0d0a3a8e52ee63d70182c9118d896d2bded3c82b7c74d1f8780519e19efb5cai0 | none | | [found on ord.io](https://www.ord.io/14291772)
 
 
 ## Contribute
