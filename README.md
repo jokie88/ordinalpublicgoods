@@ -26,7 +26,7 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | algoliasearch 4.18.0 algoliasearch.umd.js | c0d0a3a8e52ee63d70182c9118d896d2bded3c82b7c74d1f8780519e19efb5cai0 | none | | [found on ord.io](https://www.ord.io/14291772)
 | GRC-img v1 | 3f323efa06a2e86a7091cb0b18e6cc970bc747ea7b8b8e99a9431555fdf5d1d3i0 | none | | [ord.io](https://www.ord.io/14578041)
 | jsgif 0.1 (GIFPlayer port) | aca2e869efa803eefaafaa456a258960d3aca8d90c1efd55d2fbf253a15201d0i0 | none | [source](https://github.com/antimatter15/jsgif) | [ord.io](https://www.ord.io/16620325)
-
+| generatord v1.0 | 163db70a65ec1780d1b447149ee647cd3d5c733303f7708f3a78d08f9a8259b2i0 | none | generatord.io | [source](https://www.ord.io/13934203) 
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
