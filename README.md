@@ -27,6 +27,9 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | GRC-img v1 | 3f323efa06a2e86a7091cb0b18e6cc970bc747ea7b8b8e99a9431555fdf5d1d3i0 | none | | [ord.io](https://www.ord.io/14578041)
 | jsgif 0.1 (GIFPlayer port) | aca2e869efa803eefaafaa456a258960d3aca8d90c1efd55d2fbf253a15201d0i0 | none | [source](https://github.com/antimatter15/jsgif) | [ord.io](https://www.ord.io/16620325)
 | generatord v1.0 | 163db70a65ec1780d1b447149ee647cd3d5c733303f7708f3a78d08f9a8259b2i0 | none | generatord.io | [source](https://www.ord.io/13934203) 
+| Highlight.js v11.7.0 | 41d856597a8474e7124a0641b54afb77bc034f800e1be8fe02a20b55023ff4a7i0 | none | | [ord.io](https://www.ord.io/18501999)
+| Y A C E v0.0.6 | 5884d77df6457b1073b267207b8ce1a9a4d67114eb7794af04eb8ac637f07ae7i0 | none | | [ord.io](https://www.ord.io/18501780)
+
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
