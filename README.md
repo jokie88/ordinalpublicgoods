@@ -6,6 +6,7 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 
 | Library | Inscription ID | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
+| [brotli/decode.min.js](https://github.com/google/brotli/blob/master/js/decode.min.js) | b1d16a7a1ada08b5c7f51837478f578c0abd0973809c439228f28ccd5c38e44ai0 | none | | [ord.io](https://www.ord.io/21338293)
 |fflate 0.8.0 | f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0 | none | | [harry.xbt](https://twitter.com/hbeckeri/status/1671917397832335361?s=20)
 | html2canvas 1.4.1 | be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0 | none | | [king bootoshi](https://twitter.com/KingBootoshi/status/1670534828922400768?s=20)
 |jquery 3.7.0 | 773e4865bcf3084e6d6ee5d49136fb5f7071d4c050ec4aeeaeb9c6d24fea5fc1i0 | none | | [inscribed.space](https://twitter.com/InscribedSpace/status/1671541360703205381?s=20)
