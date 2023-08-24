@@ -31,6 +31,11 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | Highlight.js v11.7.0 | 41d856597a8474e7124a0641b54afb77bc034f800e1be8fe02a20b55023ff4a7i0 | none | | [ord.io](https://www.ord.io/18501999)
 | Y A C E v0.0.6 | 5884d77df6457b1073b267207b8ce1a9a4d67114eb7794af04eb8ac637f07ae7i0 | none | | [ord.io](https://www.ord.io/18501780)
 | crypto-js 4.1.1 | 66979aec90e592bc5be7fddcef23daeff982662b7225e7804c1b271f1b0d267ai0 | none | | [Wild Tangz](https://twitter.com/wildtangz)
+| react 18.2.0 | 7f403153b6484f7d24f50a51e1cdf8187219a3baf103ef0df5ea2437fb9de874i0 | none | [example](https://ordinals.com/content/73aa8f7dd4be6224215c23863957a93062aeaac58d5227e20e328a8e0dda2782i0) | [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
+| reactDOM 18.2.0 | 89295aaf617708128b95d22e7099ce32108d4b918386e6f90994e7979d22ba72i0 | none | [example](https://ordinals.com/content/73aa8f7dd4be6224215c23863957a93062aeaac58d5227e20e328a8e0dda2782i0) |  [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
+| pako 2.1.0 | fba6f95fb1152db43304a27dce8cb8c65509eba6ab0b6958cedeb33e5f443077i0 | none | [example](https://ordinals.com/content/2e11adadd78e34f8c3dff508f58cb4c06dd35812af774740479ec76c1138f7d3i0) | [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
+| ordengine-react v0.0.1 | faa7b9b0b7884360f6c2b34693855a0d60df5f344727c72e3691a80f84ec6a81i0 | none | [example](https://ordinals.com/content/73aa8f7dd4be6224215c23863957a93062aeaac58d5227e20e328a8e0dda2782i0) |  [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
+
 
 
 ## Contribute
