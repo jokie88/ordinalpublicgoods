@@ -35,8 +35,17 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | reactDOM 18.2.0 | 89295aaf617708128b95d22e7099ce32108d4b918386e6f90994e7979d22ba72i0 | none | [example](https://ordinals.com/content/73aa8f7dd4be6224215c23863957a93062aeaac58d5227e20e328a8e0dda2782i0) |  [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
 | pako 2.1.0 | fba6f95fb1152db43304a27dce8cb8c65509eba6ab0b6958cedeb33e5f443077i0 | none | [example](https://ordinals.com/content/2e11adadd78e34f8c3dff508f58cb4c06dd35812af774740479ec76c1138f7d3i0) | [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
 | ordengine-react v0.0.1 | faa7b9b0b7884360f6c2b34693855a0d60df5f344727c72e3691a80f84ec6a81i0 | none | [example](https://ordinals.com/content/73aa8f7dd4be6224215c23863957a93062aeaac58d5227e20e328a8e0dda2782i0) |  [bopxbt](https://twitter.com/boppleton/status/1693862904183886064)
-
-
+| camera-controls 2.7.0 | 036f12ea42d0fd664948e952b61f4c2f0d04e5672e7a7b3e2c33ac2544b6b1a7i0 | none | | [ord.io](https://www.ord.io/25221832)
+| react-reconciler 0.27.0 | 9b0338c4e84987a374845235a3b4f0fe73b205b336a7b936e05c71deb5a1882ci0 | none | | [ord.io](https://www.ord.io/24919723)
+| react-three/fiber 8.13.7 | 24c424c795d50c3f1d344253d163e7eaa34e904aef038b6031d706e76676c634i0 | none | | [ord.io](https://www.ord.io/24945358)
+| react-spring-core 9.7.3 | d6a8d721b4df8594fd17613804c31fa087f2aebb982855122bf945fd350675b2i0 | none | | [ord.io](https://www.ord.io/27308800)
+| shader-composer 0.4.3 | 91543f66f9b108964ec815b8aa05cca363937cddbe3b578f44ba5cb750c2d140i0 | none | | [ord.io](https://www.ord.io/25497772)
+| gif.worker.js 0.2.0 | 4de3c757efad47a27480d5072b88d3f0c08ae52398eac3db64c951798bef601di0 | none | | [ord.io](https://www.ord.io/27350879)
+| scheduler 0.23.0 | 9b09a0f234355106e9311a21fbe5324c90f7317f04c00bc73e1114c9af745743i0 | none | | [ord.io](https://www.ord.io/24795534)
+| react-three/drei 9.80.7 | 9f77a1efc4c880197ba8d197d5e87539443ed5ebcf027b1fee25db8bd1cf4605i0 | none | | [ord.io](https://www.ord.io/26756821)
+| vfx-composer 0.4.0 | 9f59e26bc81e4d741f77320eaf9e9df8cce623c9639f9c1a49497ac75607e9bei0 | none | | [ord.io](https://www.ord.io/25499027)
+| fp-ts-function@2.16.1 | 26b3de7f8954f93dd781c0a1b8d5dfabc4731fbd3e4493657a02a2d7373195c0i0 | none | | [ord.io](https://www.ord.io/25497717)
+| its-fine@1.1.1 | 23983d059bcb1535bf18ef968ee811036dc608e55e99050d54b0948c2f827897i0 | none | | [ord.io](https://www.ord.io/24898987)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
