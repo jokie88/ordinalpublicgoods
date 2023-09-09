@@ -1,5 +1,5 @@
 # Ordinal Public Goods
-A list of js libraries and other js and css resources inscribed on bitcoin. Use it to lower the cost of your inscriptions. 
+A list of js libraries and other js and css resources inscribed on bitcoin. Use it to lower the cost of your inscriptions. Once you have the package that you need you can test it out in regtest with [Ord Package Manager](https://github.com/cypherpunklab/opm)
 
 > **Warning**
 > These libraries are NOT vetted. Be cautious when opening and using these inscriptions. 
