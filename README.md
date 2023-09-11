@@ -27,7 +27,7 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | algoliasearch 4.18.0 algoliasearch.umd.js | c0d0a3a8e52ee63d70182c9118d896d2bded3c82b7c74d1f8780519e19efb5cai0 | none | | [found on ord.io](https://www.ord.io/14291772)
 | GRC-img v1 | 3f323efa06a2e86a7091cb0b18e6cc970bc747ea7b8b8e99a9431555fdf5d1d3i0 | none | | [ord.io](https://www.ord.io/14578041)
 | jsgif 0.1 (GIFPlayer port) | aca2e869efa803eefaafaa456a258960d3aca8d90c1efd55d2fbf253a15201d0i0 | none | [source](https://github.com/antimatter15/jsgif) | [ord.io](https://www.ord.io/16620325)
-| generatord v1.0 | 163db70a65ec1780d1b447149ee647cd3d5c733303f7708f3a78d08f9a8259b2i0 | none | generatord.io | [source](https://www.ord.io/13934203) 
+| generatord v1.3 | 57465a0c54f6eba0d8ed8e57707d00b1eb806637495bb87d2ec825d5d687a7fei0 | none | generatord.io | [source](https://www.ord.io/29829931)  
 | Highlight.js v11.7.0 | 41d856597a8474e7124a0641b54afb77bc034f800e1be8fe02a20b55023ff4a7i0 | none | | [ord.io](https://www.ord.io/18501999)
 | Y A C E v0.0.6 | 5884d77df6457b1073b267207b8ce1a9a4d67114eb7794af04eb8ac637f07ae7i0 | none | | [ord.io](https://www.ord.io/18501780)
 | crypto-js 4.1.1 | 66979aec90e592bc5be7fddcef23daeff982662b7225e7804c1b271f1b0d267ai0 | none | | [Wild Tangz](https://twitter.com/wildtangz)
@@ -45,7 +45,8 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | react-three/drei 9.80.7 | 9f77a1efc4c880197ba8d197d5e87539443ed5ebcf027b1fee25db8bd1cf4605i0 | none | | [ord.io](https://www.ord.io/26756821)
 | vfx-composer 0.4.0 | 9f59e26bc81e4d741f77320eaf9e9df8cce623c9639f9c1a49497ac75607e9bei0 | none | | [ord.io](https://www.ord.io/25499027)
 | fp-ts-function@2.16.1 | 26b3de7f8954f93dd781c0a1b8d5dfabc4731fbd3e4493657a02a2d7373195c0i0 | none | | [ord.io](https://www.ord.io/25497717)
-| its-fine@1.1.1 | 23983d059bcb1535bf18ef968ee811036dc608e55e99050d54b0948c2f827897i0 | none | | [ord.io](https://www.ord.io/24898987)
+| its-fine@1.1.1 | 23983d059bcb1535bf18ef968ee811036dc608e55e99050d54b0948c2f827897i0 | none | | [ord.io](https://www.ord.io/24898987) 
+| seedrandom.min.js | c192f63c1990ee1377d51de1f5b6820eac412aa779d717b9497806a072ea49f6i0 | none | | [ord.io](https://www.ord.io/27758217) (github)[https://github.com/davidbau/seedrandom/blob/released/seedrandom.min.js]
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
