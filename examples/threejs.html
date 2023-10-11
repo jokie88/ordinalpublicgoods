@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Recommended to include this script in head tag-->
+    <script type="module">
+      // Importing harry.xbt fflate inscription
+      // Use 'https://ordinals.com/content/{inscription_id}' for testing if necessary
+      import * as fflate from '/content/f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0'
+  
+      // Fetching OCM three.js inscription
+      const response = await window.fetch('/content/2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0')
+      const text = await response.text()
+      
+      // Inscription content is HTML. Text splitting required:
+      const b64str = text.split('\n')[32].split('\'')[1]
+  
+      // Decompress base64 encoded binary
+      const code = fflate.strFromU8(
+        fflate.decompressSync( 
+          fflate.strToU8(
+            atob(b64str), true
+          )
+        )
+      )
+  
+      // Adding three.js script content
+      const script = document.createElement('script')
+      script.innerHTML = code
+      document.head.appendChild(script)
+      
+      // Testing if three.js is loaded
+      console.log(THREE)
+    </script>
+    
+  </head>
+  
+  <body>
+    <script>
+      // Some code to use three.js and make 3D inscriptions :)
+    </script>
+  </body>
+  
+</html>
