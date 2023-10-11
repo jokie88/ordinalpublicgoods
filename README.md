@@ -46,7 +46,7 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | vfx-composer 0.4.0 | 9f59e26bc81e4d741f77320eaf9e9df8cce623c9639f9c1a49497ac75607e9bei0 | none | | [ord.io](https://www.ord.io/25499027)
 | fp-ts-function@2.16.1 | 26b3de7f8954f93dd781c0a1b8d5dfabc4731fbd3e4493657a02a2d7373195c0i0 | none | | [ord.io](https://www.ord.io/25497717)
 | its-fine@1.1.1 | 23983d059bcb1535bf18ef968ee811036dc608e55e99050d54b0948c2f827897i0 | none | | [ord.io](https://www.ord.io/24898987) 
-| seedrandom.min.js | c192f63c1990ee1377d51de1f5b6820eac412aa779d717b9497806a072ea49f6i0 | none | | [ord.io](https://www.ord.io/27758217) (github)[https://github.com/davidbau/seedrandom/blob/released/seedrandom.min.js]
+| seedrandom.min.js | c192f63c1990ee1377d51de1f5b6820eac412aa779d717b9497806a072ea49f6i0 | none | | [ord.io](https://www.ord.io/27758217) [github](https://github.com/davidbau/seedrandom/blob/released/seedrandom.min.js)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
