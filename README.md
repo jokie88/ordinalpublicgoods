@@ -51,6 +51,8 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | seedrandom.min.js | c192f63c1990ee1377d51de1f5b6820eac412aa779d717b9497806a072ea49f6i0 | none | | [ord.io](https://www.ord.io/27758217) [github](https://github.com/davidbau/seedrandom/blob/released/seedrandom.min.js)
 | easymde 2.18.0 | 814195d8e791fc321960b4070cdb00b6627e4bffbeca0eb6742750de4b88f802i0 | none | | [ord.io](https://www.ord.io/34827360)
 | highlight.js 11.9.0 | e26e96915acbaed1888fdeb72402e9eb21f83e533ee26fc7101e631b3f78eae6i0 | none | | [ord.io](https://www.ord.io/35275314)
+| anime.js 3.2.1 | 23ad98a190933e5c238b57e05814acc154d55928edf02d298cc82f4fac0313fei0 | none | | [ord.io](https://www.ord.io/35139362)
+| mathjax | dfcddc2ef31d803379729a87912d9246091f83303584cea31786ec189e8dc234i0 | none | | [github](https://github.com/mathjax/MathJax)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
