@@ -14,6 +14,7 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | Apache 2.0 | 3a4575b2a8fe6e7968146f290d494c2346d40ff692314050babcaa7268347f4bi0 | none | untested |  inscribed.space
 | Moment.js 2.29.1 | b90b4516ea1a0b882e67387eb4f3e5def0307704b046e8ef98c5e72092c47eedi0 | none | | inscribed.space 
 | Bootstrap 5.3.0 | 3bcfdc4e97209ecaaab06705b52ba6b7fc9d1cee77404ac15e655ce691a44654i0 | none | | inscribed.space
+| tailwind | 0703423f633ed5cef7e3b45bfd8df43ab0d6783850d51005b105f01dd60d25c3i0 | base64 | | [inscribed-packages](https://github.com/boppleton/inscribed-packages)
 | gunzip in fflate | 2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0 | gzip | need to do inscription.split("\n")[28] |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | Three.js | 2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0 | gzip | [example](https://github.com/jokie88/ordinalpublicgoods/blob/main/examples/threejs.html) |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | p5.js 1.6.0 | 255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0 | gzip | see [example](/examples/p5js.html) | [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
@@ -38,7 +39,8 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | camera-controls 2.7.0 | 036f12ea42d0fd664948e952b61f4c2f0d04e5672e7a7b3e2c33ac2544b6b1a7i0 | none | | [ord.io](https://www.ord.io/25221832)
 | react-reconciler 0.27.0 | 9b0338c4e84987a374845235a3b4f0fe73b205b336a7b936e05c71deb5a1882ci0 | none | | [ord.io](https://www.ord.io/24919723)
 | react-three/fiber 8.13.7 | 24c424c795d50c3f1d344253d163e7eaa34e904aef038b6031d706e76676c634i0 | none | | [ord.io](https://www.ord.io/24945358)
-| react-spring-core 9.7.3 | d6a8d721b4df8594fd17613804c31fa087f2aebb982855122bf945fd350675b2i0 | none | | [ord.io](https://www.ord.io/27308800)
+| htm3.1.1 | 65035174d0dd81079dadec7e33808c8db77e0683ae5fca330ca992e3f631517fi0 | none | | [inscribed-packages](https://github.com/boppleton/inscribed-packages)
+| react-spring-core 9.7.3 | d6a8d721b4df8594fd17613804c31fa087f2aebb982855122bf945fd350675b2i0 | none | | [ord.io](https://www.ord.io/27308800
 | shader-composer 0.4.3 | 91543f66f9b108964ec815b8aa05cca363937cddbe3b578f44ba5cb750c2d140i0 | none | | [ord.io](https://www.ord.io/25497772)
 | gif.worker.js 0.2.0 | 4de3c757efad47a27480d5072b88d3f0c08ae52398eac3db64c951798bef601di0 | none | | [ord.io](https://www.ord.io/27350879)
 | scheduler 0.23.0 | 9b09a0f234355106e9311a21fbe5324c90f7317f04c00bc73e1114c9af745743i0 | none | | [ord.io](https://www.ord.io/24795534)
