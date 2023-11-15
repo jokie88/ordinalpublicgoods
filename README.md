@@ -53,6 +53,8 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | highlight.js 11.9.0 | e26e96915acbaed1888fdeb72402e9eb21f83e533ee26fc7101e631b3f78eae6i0 | none | | [ord.io](https://www.ord.io/35275314)
 | anime.js 3.2.1 | 23ad98a190933e5c238b57e05814acc154d55928edf02d298cc82f4fac0313fei0 | none | | [ord.io](https://www.ord.io/35139362)
 | mathjax | dfcddc2ef31d803379729a87912d9246091f83303584cea31786ec189e8dc234i0 | none | | [github](https://github.com/mathjax/MathJax)
+| marx.min.css 4.1.1 | 81b5d8ee8191299df25944b7e4f21667665ede891a3bea5fd6a1c98a2d2f0882i0 | none | | [thecolorblocks](https://x.com/thecolorblocks_/status/1724616522805432415)
+| ordlotte.js | 20f489560d91926eb032d4d2a5b8045ac885ee80184c12d4fc682fd81af07851i0 | none | | [ordlotte](https://github.com/thecolorblocks/ordlotte)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
