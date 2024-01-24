@@ -62,7 +62,7 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | ordlotte.js | [Link](https://ordinals.com/inscription/20f489560d91926eb032d4d2a5b8045ac885ee80184c12d4fc682fd81af07851i0) | none | | [ordlotte](https://github.com/thecolorblocks/ordlotte)
 
 # Font files
-| Library | Inscription | Format | Notes | Source | 
+| Name | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
 | GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
 | pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
