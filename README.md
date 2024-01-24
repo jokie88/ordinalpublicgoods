@@ -1,8 +1,10 @@
 # Ordinal Public Goods
-A list of js libraries and other js and css resources inscribed on bitcoin. Use it to lower the cost of your inscriptions. Once you have the package that you need you can test it out in regtest with [Ord Package Manager](https://github.com/cypherpunklab/opm)
+A list of js libraries and other resources inscribed on bitcoin. Use it to lower the cost of your inscriptions. Once you have the package that you need you can test it out in regtest with [Ord Package Manager](https://github.com/cypherpunklab/opm)
 
 > **Warning**
 > These libraries are NOT vetted. Be cautious when opening and using these inscriptions. 
+
+# Javascript and CSS 
 
 | Library | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
@@ -43,7 +45,7 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | react-reconciler 0.27.0 | [Link](https://ordinals.com/inscription/9b0338c4e84987a374845235a3b4f0fe73b205b336a7b936e05c71deb5a1882ci0) | none | | [ord.io](https://www.ord.io/24919723)
 | react-three/fiber 8.13.7 | [Link](https://ordinals.com/inscription/24c424c795d50c3f1d344253d163e7eaa34e904aef038b6031d706e76676c634i0) | none | | [ord.io](https://www.ord.io/24945358)
 | htm3.1.1 | [Link](https://ordinals.com/inscription/65035174d0dd81079dadec7e33808c8db77e0683ae5fca330ca992e3f631517fi0) | none | | [inscribed-packages](https://github.com/boppleton/inscribed-packages)
-| react-spring-core 9.7.3 | [Link](https://ordinals.com/inscription/d6a8d721b4df8594fd17613804c31fa087f2aebb982855122bf945fd350675b2i0) | none | | [ord.io](https://www.ord.io/27308800
+| react-spring-core 9.7.3 | [Link](https://ordinals.com/inscription/d6a8d721b4df8594fd17613804c31fa087f2aebb982855122bf945fd350675b2i0) | none | | [ord.io](https://www.ord.io/27308800)
 | shader-composer 0.4.3 | [Link](https://ordinals.com/inscription/91543f66f9b108964ec815b8aa05cca363937cddbe3b578f44ba5cb750c2d140i0) | none | | [ord.io](https://www.ord.io/25497772)
 | gif.worker.js 0.2.0 | [Link](https://ordinals.com/inscription/4de3c757efad47a27480d5072b88d3f0c08ae52398eac3db64c951798bef601di0) | none | | [ord.io](https://www.ord.io/27350879)
 | scheduler 0.23.0 | [Link](https://ordinals.com/inscription/9b09a0f234355106e9311a21fbe5324c90f7317f04c00bc73e1114c9af745743i0) | none | | [ord.io](https://www.ord.io/24795534)
@@ -58,6 +60,14 @@ A list of js libraries and other js and css resources inscribed on bitcoin. Use 
 | mathjax | [Link](https://ordinals.com/inscription/dfcddc2ef31d803379729a87912d9246091f83303584cea31786ec189e8dc234i0) | none | | [github](https://github.com/mathjax/MathJax)
 | marx.min.css 4.1.1 | [Link](https://ordinals.com/inscription/81b5d8ee8191299df25944b7e4f21667665ede891a3bea5fd6a1c98a2d2f0882i0) | none | | [thecolorblocks](https://x.com/thecolorblocks_/status/1724616522805432415)
 | ordlotte.js | [Link](https://ordinals.com/inscription/20f489560d91926eb032d4d2a5b8045ac885ee80184c12d4fc682fd81af07851i0) | none | | [ordlotte](https://github.com/thecolorblocks/ordlotte)
+
+# Font files
+| Library | Inscription | Format | Notes | Source | 
+| --- | --- | --- | --- | --- |
+| GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
+| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
+| Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
+| Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
