@@ -64,10 +64,10 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 # Font files
 | Library | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
-| GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
-| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
-| Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
-| Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | | [The Color Blocks](https://github.com/thecolorblocks)
+| GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+| Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+| Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
