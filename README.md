@@ -60,6 +60,15 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | mathjax | [Link](https://ordinals.com/inscription/dfcddc2ef31d803379729a87912d9246091f83303584cea31786ec189e8dc234i0) | none | | [github](https://github.com/mathjax/MathJax)
 | marx.min.css 4.1.1 | [Link](https://ordinals.com/inscription/81b5d8ee8191299df25944b7e4f21667665ede891a3bea5fd6a1c98a2d2f0882i0) | none | | [thecolorblocks](https://x.com/thecolorblocks_/status/1724616522805432415)
 | ordlotte.js | [Link](https://ordinals.com/inscription/20f489560d91926eb032d4d2a5b8045ac885ee80184c12d4fc682fd81af07851i0) | none | | [ordlotte](https://github.com/thecolorblocks/ordlotte)
+| GLTFExporter | [Link](https://ordinals.com/inscription/9d67d0a673ab137b324c7cdf54502e4cdfe556dab2843d29a90b1e3ac61bab31i0) | none | | [ord.io](https://www.ord.io/26477361)
+| GLTFLoader | [Link](https://ordinals.com/inscription/614855c7c7541594c846a96a81db7bcedaff2831711e3b89670aba4c2fefb404i0) | none | | [ord.io](https://www.ord.io/35792102)
+| USDZ Exporter | [Link](https://ordinals.com/inscription/dd685e03a6a911ee0eb048efdbce01be4d7d9ef86adfd5850d0131037c75ba99i0) | none | | [ord.io](https://www.ord.io/35766652)
+| EXT_mesh_gpu_instancing_exporter | [Link](https://ordinals.com/inscription/46db5114416ee580add2c494ac475e40e363e8616d174eef7a0e4101c681b78bi0) | none | | [ord.io](https://www.ord.io/https://www.ord.io/26477360)
+| base64js | [Link](https://ordinals.com/inscription/1c4430bd634c22aa30417926fd5f5e9d6da0c57ca68123a8c950fa227f1f7be1i0) | none | | [ord.io](https://www.ord.io/59598680)
+| ieee754 | [Link](https://ordinals.com/inscription/1cbc90680c70ab6930ee950f05b436998e60cc15822ff59ec3a315a2894733bdi0) | none | | [ord.io](https://www.ord.io/59598663)
+| Buffer | [Link](https://ordinals.com/inscription/fb15f2a6ed1d3031aa214cc12d3fa696508080c0baa194463920c8a79d21aa54i0) | none | | [ord.io](https://www.ord.io/fb15f2a6ed1d3031aa214cc12d3fa696508080c0baa194463920c8a79d21aa54i0)
+| OrdJS | [Link](https://ordinals.com/inscription/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0) | none | [example](https://github.com/jerryfane/OrdJS/blob/main/src/content/example.html) | [ord.io](https://github.com/jerryfane/OrdJS)
+
 
 # Font files
 | Name | Inscription | Format | Notes | Source | 
