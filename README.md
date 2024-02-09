@@ -4,7 +4,18 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 > **Warning**
 > These libraries are NOT vetted. Be cautious when opening and using these inscriptions. 
 
-# Javascript and CSS 
+
+## Ordinals Javascript Frameworks
+These are packages to help you incorporate js modules and interact directly w/ the ordinals protocol
+
+| Github | Notes | Source |
+| --- | --- | --- |
+| [Ord Package Manager](https://github.com/cypherpunklab/opm) | A simple package manager for Ord with a html template engine. Provides scripts to test the packages in regtest mode. | [Eloc](https://twitter.com/Elocremarc)
+| [Recursive Library](https://github.com/cypherpunklab/recursive_library) | Library for getting data off recursive endpoints | [Eloc](https://twitter.com/Elocremarc)
+
+
+
+## Javascript and CSS 
 
 | Library | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
@@ -71,7 +82,7 @@ A list of js libraries and other resources inscribed on bitcoin. Use it to lower
 | OrdJS | [Link](https://ordinals.com/inscription/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0) | none | [example](https://github.com/jerryfane/OrdJS/blob/main/src/content/example.html) | [ord.io](https://github.com/jerryfane/OrdJS)
 
 
-# Font files
+## Font files
 | Name | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
 | GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
