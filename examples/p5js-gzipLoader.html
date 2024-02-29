@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://ordinals.com/content/638cc09410ed2c92f4dc2ac4356ac7521ad77d1bdff8e1708668619495de7c31i0"></script>
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    // fflate 0.8.0
+    const ffu = "https://ordinals.com/content/f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0"
+    // p5js 1.9.0 gzipped
+    const p5_190u = "https://ordinals.com/content/cc5cf94da24c1f6f0d435ccca78c24e98ca30adb1f3b7c81b9ab28ceb6cb628fi0"
+    // Instantiate p5js
+    const sketch = (p) => {
+      p.setup = () => {
+        p.createCanvas(400, 400)
+      }
+      p.draw = () => {
+        p.background('black')
+        p.stroke('white')
+        p.fill('gray')
+        p.circle(200, 200, 200)
+      }
+    }
+    // Handle gzlibLoaded event
+    document.addEventListener('gzlibLoaded', () => {
+      console.log('loaded')
+      let myp5 = new p5(sketch)
+    }, false)
+    // Asynchronous function that loads gzipped libraries
+    // Can also be used with async/await syntax
+    // i.e. (async ()=>{await gzlib.load(ffu, p5_190u)})();
+    gzlib.load(ffu, p5_190u)
+  </script>
+</body>
+</html>
