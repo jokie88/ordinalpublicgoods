@@ -18,8 +18,8 @@ Packages to help make generative art on Bitcoin 🟧
 | Library | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
 | Three.js | [Link](https://ordinals.com/inscription/2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0) | gzip | [example](https://github.com/jokie88/ordinalpublicgoods/blob/main/examples/threejs.html) |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
-| Three.js 0.159.0 | [Link](https://ordinals.com/inscription/8f968eb8ada1bf6275e6f8a27361a6b462a951b0102951e0fe7d30dec1d07dd4i0) | ord/br | [example]
-| camera-controls 2.7.0 | [Link](https://ordinals.com/inscription/036f12ea42d0fd664948e952b61f4c2f0d04e5672e7a7b3e2c33ac2544b6b1a7i0) | none | | [ordio](https://www.ord.io/25221832)(https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/threejs/standalone/example.html) |  [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
+| Three.js 0.159.0 | [Link](https://ordinals.com/inscription/8f968eb8ada1bf6275e6f8a27361a6b462a951b0102951e0fe7d30dec1d07dd4i0) | ord/br | [example](https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/threejs/standalone/example.html) |  [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
+| camera-controls 2.7.0 | [Link](https://ordinals.com/inscription/036f12ea42d0fd664948e952b61f4c2f0d04e5672e7a7b3e2c33ac2544b6b1a7i0) | none | | [ord.io](https://www.ord.io/25221832)
 | p5.js 1.6.0 (gzipped) | [Link](https://ordinals.com/inscription/255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0) | gzip | see [example](/examples/p5js.html) | [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | p5.js 1.9.0 (brotli) | [Link](https://ordinals.com/inscription/b6a50f5ba932b0ea7f652d9d28e59eced47bc6f8376c25e02d8b3457bb60ac8fi0) | ord/br | see [example](https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/p5js/standalone/example.html) |  [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
 | p5.js 1.9.0 (gzipped) | [Link](https://ordinals.com/inscription/cc5cf94da24c1f6f0d435ccca78c24e98ca30adb1f3b7c81b9ab28ceb6cb628fi0) | gzip | see [example](examples/p5js-gzipLoader.html) | [Genify?](https://btc.genify.xyz/create)
@@ -86,6 +86,9 @@ Utilities that might be useful for on-chain innovations
 
 ## CSS Frameworks
 To style your HTML inscriptions
+
+| Library | Inscription | Format | Notes | Source | 
+| --- | --- | --- | --- | --- |
 | marx.min.css 4.1.1 | [Link](https://ordinals.com/inscription/81b5d8ee8191299df25944b7e4f21667665ede891a3bea5fd6a1c98a2d2f0882i0) | none | | [thecolorblocks](https://x.com/thecolorblocks_/status/1724616522805432415)
 | Bootstrap 5.3.0 | [Link](https://ordinals.com/inscription/3bcfdc4e97209ecaaab06705b52ba6b7fc9d1cee77404ac15e655ce691a44654i0) | none | | inscribed.space
 | tailwind | [Link](https://ordinals.com/inscription/0703423f633ed5cef7e3b45bfd8df43ab0d6783850d51005b105f01dd60d25c3i0) | base64 gzipped | after unzipping, pull out default (e.g. tail.default) | [inscribed-packages](https://github.com/boppleton/inscribed-packages)
