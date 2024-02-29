@@ -22,13 +22,13 @@ Packages to help make generative art on Bitcoin 🟧
 | camera-controls 2.7.0 | [Link](https://ordinals.com/inscription/036f12ea42d0fd664948e952b61f4c2f0d04e5672e7a7b3e2c33ac2544b6b1a7i0) | none | | [ord.io](https://www.ord.io/25221832)(https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/threejs/standalone/example.html) |  [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
 | p5.js 1.6.0 (gzipped) | [Link](https://ordinals.com/inscription/255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0) | gzip | see [example](/examples/p5js.html) | [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
 | p5.js 1.9.0 (brotli) | [Link](https://ordinals.com/inscription/b6a50f5ba932b0ea7f652d9d28e59eced47bc6f8376c25e02d8b3457bb60ac8fi0) | ord/br | see [example](https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/p5js/standalone/example.html) |  [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
-| p5.js 1.9.0 (gzipped) | [Link](https://ordinals.com/inscription/cc5cf94da24c1f6f0d435ccca78c24e98ca30adb1f3b7c81b9ab28ceb6cb628fi0) | gzip | see [example]() | [Genify?](https://btc.genify.xyz/create)
+| p5.js 1.9.0 (gzipped) | [Link](https://ordinals.com/inscription/cc5cf94da24c1f6f0d435ccca78c24e98ca30adb1f3b7c81b9ab28ceb6cb628fi0) | gzip | see [example](examples/p5js-gzipLoader.html) | [Genify?](https://btc.genify.xyz/create)
 | matter0js 0.19.0 | [Link](https://ordinals.com/inscription/9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0) | none | | [found on ord.io](https://www.ord.io/11774132)
 | webGL-fluid-simulation | [Link](https://ordinals.com/inscription/3af8500b444c7f589fca666fe317e1f95c7226d49dc23f8a4b86093f01f3e7adi0) | none | | [found on ord.io](https://www.ord.io/11846310)
 | tone.js 14.7.77? | [Link](https://ordinals.com/inscription/44740a1f30efb247ef41de3355133e12d6f58ab4dc8a3146648e2249fa9c6a39i0) | none | | [found on ord.io](https://www.ord.io/13316104)
 | generatord v1.3 | [Link](https://ordinals.com/inscription/57465a0c54f6eba0d8ed8e57707d00b1eb806637495bb87d2ec825d5d687a7fei0) | none | generatord.io | [source](https://www.ord.io/29829931)  
 | anime.js 3.2.1 | [Link](https://ordinals.com/inscription/23ad98a190933e5c238b57e05814acc154d55928edf02d298cc82f4fac0313fei0) | none | | [ord.io](https://www.ord.io/35139362)
-| gzipLoader | [Link](https://ordinals.com/content/638cc09410ed2c92f4dc2ac4356ac7521ad77d1bdff8e1708668619495de7c31i0) | none | [example]() | [thecolorblocks](https://x.com/thecolorblocks_/status/1754130944955744490?s=20)
+| gzipLoader | [Link](https://ordinals.com/content/638cc09410ed2c92f4dc2ac4356ac7521ad77d1bdff8e1708668619495de7c31i0) | none | [example](examples/p5js-gzipLoader.html) | [thecolorblocks](https://x.com/thecolorblocks_/status/1754130944955744490?s=20)
 
 ## Other Javascript 
 Utilities that might be useful for on-chain innovations
