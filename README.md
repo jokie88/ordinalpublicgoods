@@ -36,6 +36,7 @@ Utilities that might be useful for on-chain innovations
 | Library | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
 | [brotli/decode.min.js](https://github.com/google/brotli/blob/master/js/decode.min.js) | [Link](https://ordinals.com/inscription/b1d16a7a1ada08b5c7f51837478f578c0abd0973809c439228f28ccd5c38e44ai0) | none | | [ord.io](https://www.ord.io/21338293)
+| Chroma | [Link](https://ordinals.com/inscription/c49f28a5c9e67efb85d44b9ee12efa2839b0251bad14efc5e6c32406505e259ci0) | gzip | Contributed by [Lammetje](https://twitter.com/lammetje_nl) | [The Function Gallery](https://function.gallery)
 | fflate 0.8.0 | [Link](https://ordinals.com/inscription/f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0) | none | [example](https://github.com/jokie88/ordinalpublicgoods/blob/main/examples/threejs.html) | [harry.xbt](https://twitter.com/hbeckeri/status/1671917397832335361?s=20)
 | html2canvas 1.4.1 | [Link](https://ordinals.com/inscription/be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0) | none | | [king bootoshi](https://twitter.com/KingBootoshi/status/1670534828922400768?s=20)
 | jquery 3.7.0 | [Link](https://ordinals.com/inscription/773e4865bcf3084e6d6ee5d49136fb5f7071d4c050ec4aeeaeb9c6d24fea5fc1i0) | none | | [inscribed.space](https://twitter.com/InscribedSpace/status/1671541360703205381?s=20)
@@ -97,9 +98,16 @@ To style your HTML inscriptions
 | Name | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
 | GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
-| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | ![preview]
+(https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
 | Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
 | Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+
+## Bitcoin testnet
+| Name | Inscription | Format | Notes | Source | 
+| --- | --- | --- | --- | --- |
+| p5.js 1.6.0 (gzipped) | [Link](https://ordinals.com/inscription/d1fc9ee2d1877927643978045b80078d8e5b2dd49e04d309f5453c8dc4ac269fi0) | gzip | see [example](/examples/p5js.html) | [The Function Gallery](https://function.gallery)
+| fflate 0.8.0 | [Link](https://ordinals.com/inscription/657973995aa2a47c3fe02debb22405dadf6b49148d97027627bced89a73f408fi0) | none | [example] | [The Function Gallery](https://function.gallery)
 
 ## Contribute
 Know of a library that isn't here yet? Edit this page by clicking the pencil icon!
