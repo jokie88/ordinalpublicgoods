@@ -94,14 +94,16 @@ To style your HTML inscriptions
 | Bootstrap 5.3.0 | [Link](https://ordinals.com/inscription/3bcfdc4e97209ecaaab06705b52ba6b7fc9d1cee77404ac15e655ce691a44654i0) | none | | inscribed.space
 | tailwind | [Link](https://ordinals.com/inscription/0703423f633ed5cef7e3b45bfd8df43ab0d6783850d51005b105f01dd60d25c3i0) | base64 gzipped | after unzipping, pull out default (e.g. tail.default) | [inscribed-packages](https://github.com/boppleton/inscribed-packages)
 
+
 ## Font files
 | Name | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
-| GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
-| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | ![preview]
-(https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
-| Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+| GEOM2 Regular | [Link](https://ordinals.com/inscription/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/355ee5998396b69deb68ce304c24423b7851530e514d2afa7ec5095e83e91fc8i0.png) | [The Color Blocks](https://github.com/thecolorblocks) 
+| pixelmix Regular | [Link](https://ordinals.com/inscription/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/74d8b14b61735bb0d738108ea9a9530406ffcbdd4b65a4206e0cfbc1ac1500e7i0.png) | [The Color Blocks](https://github.com/thecolorblocks) 
+| Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks) 
 | Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
+| Mode7 | [Link](https://ordinals.com/inscription/4c97967f86b38836a5bbbbce27a281135b2b659d2e709126945665fff22e48c0i0) | woff |  | [The Function](http://function.gallery/)
+
 
 ## Bitcoin testnet
 | Name | Inscription | Format | Notes | Source | 
