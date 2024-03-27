@@ -12,6 +12,7 @@ These are packages to help you incorporate js modules and interact directly w/ t
 | --- | --- | --- |
 | [Ord Package Manager](https://github.com/cypherpunklab/opm) | A simple package manager for Ord with a html template engine. Provides scripts to test the packages in regtest mode. | [Eloc](https://twitter.com/Elocremarc)
 | [Recursive Library](https://github.com/cypherpunklab/recursive_library) | Library for getting data off recursive endpoints | [Eloc](https://twitter.com/Elocremarc)
+| [Elements by Wizards of Ord](https://github.com/TheWizardsOfOrd/Elements) | Collection of libraries for inscribing generative art ordinals on Bitcoin | [Lifofifo](https://twitter.com/lifofifo)
 
 ## Javascript for Generative Art
 Packages to help make generative art on Bitcoin 🟧
