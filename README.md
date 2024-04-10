@@ -106,6 +106,7 @@ To style your HTML inscriptions
 | Alagard | [Link](https://ordinals.com/inscription/74eed71c46430c38e056ef1bc69ad2c521293a8941d2177b52e7d447b42d5522i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks) 
 | Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
 | Mode7 | [Link](https://ordinals.com/inscription/4c97967f86b38836a5bbbbce27a281135b2b659d2e709126945665fff22e48c0i0) | woff |  | [The Function](http://function.gallery/)
+| RuneOrd | [Link](https://ordinals.com/inscription/dbbbb2f54642010d372127dad98cbe15b9dc3afd4d2656fad81ed43a2e1b0da4i0) | woff2 | [Usage](https://x.com/asciitoshi/status/1778098853897510979) | [asciitoshi](https://twitter.com/asciitoshi)
 
 
 ## Bitcoin testnet
