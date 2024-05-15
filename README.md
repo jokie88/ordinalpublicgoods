@@ -19,6 +19,8 @@ Packages to help make generative art on Bitcoin 🟧
 | Library | Inscription | Format | Notes | Source | 
 | --- | --- | --- | --- | --- |
 | Three.js | [Link](https://ordinals.com/inscription/2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0) | gzip | [example](https://github.com/jokie88/ordinalpublicgoods/blob/main/examples/threejs.html) |  [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
+| Three.js/TextGeometry | [Link](https://ordinals.com/inscription/77ef4bc8b15f0a764903f3bb2ccd0566ac6c111bd3d884bc814cfde49565dbc9i0) | ord/br | [example] |  [Three.js](https://threejs.org/examples/jsm/geometries/TextGeometry.js)
+| Three.js/FontLoader | [Link](https://ordinals.com/inscription/fcacfdd75ef21965ec98d9a1a107e8f5468f23ff15131cae44fc6aca86538147i0) | ord/br | [example] |  [Three.js](https://threejs.org/examples/jsm/loaders/FontLoader.js)
 | Three.js 0.163.0 | [Link](https://ordinals.com/inscription/0d013bb60fc5bf5a6c77da7371b07dc162ebc7d7f3af0ff3bd00ae5f0c546445i0) | ord/br | [example](https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/threejs/standalone/example.html) |  [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
 | camera-controls 2.7.0 | [Link](https://ordinals.com/inscription/036f12ea42d0fd664948e952b61f4c2f0d04e5672e7a7b3e2c33ac2544b6b1a7i0) | none | | [ord.io](https://www.ord.io/25221832)
 | p5.js 1.6.0 (gzipped) | [Link](https://ordinals.com/inscription/255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0) | gzip | see [example](/examples/p5js.html) | [onchain monkey](https://github.com/metagood/OCM-Dimensions/blob/main/README.md)
@@ -107,7 +109,7 @@ To style your HTML inscriptions
 | Press Start 2P Regular | [Link](https://ordinals.com/inscription/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0) | font/ttf | ![preview](https://github.com/jokie88/ordinalpublicgoods/blob/main/font_previews/ef7dde1af2d860f635d6e6bf59374a6dbdf000d70c2b906955bd7eae088df9f2i0.png) | [The Color Blocks](https://github.com/thecolorblocks)
 | Mode7 | [Link](https://ordinals.com/inscription/4c97967f86b38836a5bbbbce27a281135b2b659d2e709126945665fff22e48c0i0) | woff |  | [The Function](http://function.gallery/)
 | RuneOrd | [Link](https://ordinals.com/inscription/dbbbb2f54642010d372127dad98cbe15b9dc3afd4d2656fad81ed43a2e1b0da4i0) | woff2 | [Usage](https://x.com/asciitoshi/status/1778098853897510979) | [asciitoshi](https://twitter.com/asciitoshi)
-
+| Cabal | [Link](https://ordinals.com/inscription/e41d23e435aa7c9881d7073c1f96f511140a9558bbd229b1c786a0647f6fdb57i0) | json | ![preview](https://github.com/carlosmarcial/ordinalpublicgoods/blob/main/font_previews/cabal-preview.png | [LJ Design Studios](https://ljdesignstudios.com/) 
 
 ## Bitcoin testnet
 | Name | Inscription | Format | Notes | Source | 
