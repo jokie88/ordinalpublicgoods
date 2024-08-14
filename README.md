@@ -61,7 +61,6 @@ Utilities that might be useful for on-chain innovations
 | GRC-img v1 | [Link](https://ordinals.com/inscription/3f323efa06a2e86a7091cb0b18e6cc970bc747ea7b8b8e99a9431555fdf5d1d3i0) | none | | [ord.io](https://www.ord.io/14578041)
 | jsgif 0.1 (GIFPlayer port) | [Link](https://ordinals.com/inscription/aca2e869efa803eefaafaa456a258960d3aca8d90c1efd55d2fbf253a15201d0i0) | none | [source](https://github.com/antimatter15/jsgif) | [ord.io](https://www.ord.io/16620325)
 | Phaser.js 3.80.1 (html game creator) | [Link](https://ordinals.com/inscription/0d1a04b71975ec948b36cf3ccdff415fca851b9c17144413997395f5ea166e42i0) | none | [source](https://phaser.io) | [ord.io](https://www.ord.io/74261173)
-
 | Highlight.js v11.7.0 | [Link](https://ordinals.com/inscription/41d856597a8474e7124a0641b54afb77bc034f800e1be8fe02a20b55023ff4a7i0) | none | | [ord.io](https://www.ord.io/18501999)
 | Y A C E v0.0.6 | [Link](https://ordinals.com/inscription/5884d77df6457b1073b267207b8ce1a9a4d67114eb7794af04eb8ac637f07ae7i0) | none | | [ord.io](https://www.ord.io/18501780)
 | crypto-js 4.1.1 | [Link](https://ordinals.com/inscription/66979aec90e592bc5be7fddcef23daeff982662b7225e7804c1b271f1b0d267ai0) | none | | [Wild Tangz](https://twitter.com/wildtangz)
