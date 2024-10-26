@@ -13,6 +13,7 @@ These are packages to help you incorporate js modules and interact directly w/ t
 | [Ord Package Manager](https://github.com/cypherpunklab/opm) | A simple package manager for Ord with a html template engine. Provides scripts to test the packages in regtest mode. | [Eloc](https://twitter.com/Elocremarc)
 | [Recursive Library](https://github.com/cypherpunklab/recursive_library) | Library for getting data off recursive endpoints | [Eloc](https://twitter.com/Elocremarc)
 | [Elements by Wizards of Ord](https://github.com/TheWizardsOfOrd/Elements) | Collection of libraries for inscribing generative art ordinals on Bitcoin | [Lifofifo](https://twitter.com/lifofifo)
+| [Open Ordinal](https://openordinal.dev) | Open Ordinal a suite of tools and libraries designed to enhance the devlopment, functionality and usability of Ordinals. | [OpenOrdinal](https://x.com/@OpenOrdinal)
 
 ## Javascript for Generative Art
 Packages to help make generative art on Bitcoin 🟧
@@ -93,6 +94,8 @@ Utilities that might be useful for on-chain innovations
 | Buffer | [Link](https://ordinals.com/inscription/fb15f2a6ed1d3031aa214cc12d3fa696508080c0baa194463920c8a79d21aa54i0) | none | | [ord.io](https://www.ord.io/fb15f2a6ed1d3031aa214cc12d3fa696508080c0baa194463920c8a79d21aa54i0)
 | OrdJS | [Link](https://ordinals.com/inscription/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0) | none | [example](https://github.com/jerryfane/OrdJS/blob/main/src/content/example.html) | [ord.io](https://github.com/jerryfane/OrdJS)
 | Lindenmayer | [Link](https://ordinals.com/inscription/d4a4ba1085a481528e2f8ace9ad4d869adcc295aeeb2dbea56b65224b137a56ci0) | ord/br | Modified to use p5js random | [Mutable Trees](https://twitter.com/mutabletrees)
+| Open Ordinal API 0.9.1 | [Link](https://ordinals.com/inscription/5822753706244b473956befee6e1189a9f60e000eb088e62bb26db50bfc90883i0) | ord/br | | [Open Ordinal](https://openordinal.dev)
+| Open Ordinal API 0.9.0 | [Link](https://ordinals.com/inscription/f9de65c51843738497a07cf3dab5fb13b83c4b135b577ea8c384535c33bae1bci0) | ord/br | | [Open Ordinal](https://openordinal.dev)
 
 ## CSS Frameworks
 To style your HTML inscriptions
