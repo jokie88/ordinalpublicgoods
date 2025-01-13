@@ -35,6 +35,8 @@ Packages to help make generative art on Bitcoin 🟧
 | generatord v1.3 | [Link](https://ordinals.com/inscription/57465a0c54f6eba0d8ed8e57707d00b1eb806637495bb87d2ec825d5d687a7fei0) | none | generatord.io | [source](https://www.ord.io/29829931)  
 | anime.js 3.2.1 | [Link](https://ordinals.com/inscription/23ad98a190933e5c238b57e05814acc154d55928edf02d298cc82f4fac0313fei0) | none | | [ord.io](https://www.ord.io/35139362)
 | gzipLoader | [Link](https://ordinals.com/content/638cc09410ed2c92f4dc2ac4356ac7521ad77d1bdff8e1708668619495de7c31i0) | none | [example](examples/p5js-gzipLoader.html) | [thecolorblocks](https://x.com/thecolorblocks_/status/1754130944955744490?s=20)
+| Three.js/BufferGeometryUtils | [Link](https://ordinals.com/content/6200e5608299ebb2f7e3ebcd6c88f662b3ac37df3e4d3c5e91ddef1c08b965b8i0) | none | [@BohdanDJA](https://x.com/BohdanDJA) | [Three.js](https://threejs.org/examples/jsm/utils/BufferGeometryUtils.js) 
+
 
 ## Other Javascript 
 Utilities that might be useful for on-chain innovations
