@@ -99,6 +99,7 @@ Utilities that might be useful for on-chain innovations
 | Open Ordinal API 0.9.1 | [Link](https://ordinals.com/inscription/5822753706244b473956befee6e1189a9f60e000eb088e62bb26db50bfc90883i0) | ord/br | | [Open Ordinal](https://openordinal.dev)
 | Open Ordinal API 0.9.0 | [Link](https://ordinals.com/inscription/f9de65c51843738497a07cf3dab5fb13b83c4b135b577ea8c384535c33bae1bci0) | ord/br | | [Open Ordinal](https://openordinal.dev)
 | Open Ordinal Bootstrap 0.9.0 | [Link](https://ordinals.com/inscription/d5592052351c83024a16619c7da5048df783262ec00c69f88261cf65a0f9ca11i0) | ord/br | | [Open Ordinal](https://openordinal.dev) 
+| Open Ordinal Stitch 0.9.0 | [Link](https://ordinals.com/inscription/a196634768a6a715779fa8d513b65b8d2099defc2bd09c36dccbf54ffdd04022i0) | ord/br | | [Open Ordinal](https://openordinal.dev) 
 | ZedSatologist V0 | [Link](https://ordinals.com/inscription/fb8993e3b69a1b9239fc2e2e3694ad07f5064af55e73641e4c260b5797dedf08i0) | none | rare sat identifier | [zedzeroth](https://x.com/ZedZeroth/status/1878180601628348742)
 
 ## CSS Frameworks
