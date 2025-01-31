@@ -101,6 +101,7 @@ Utilities that might be useful for on-chain innovations
 | Open Ordinal Bootstrap 0.9.0 | [Link](https://ordinals.com/inscription/d5592052351c83024a16619c7da5048df783262ec00c69f88261cf65a0f9ca11i0) | ord/br | | [Open Ordinal](https://openordinal.dev) 
 | Open Ordinal Stitch 0.9.0 | [Link](https://ordinals.com/inscription/a196634768a6a715779fa8d513b65b8d2099defc2bd09c36dccbf54ffdd04022i0) | ord/br | | [Open Ordinal](https://openordinal.dev) 
 | ZedSatologist V0 | [Link](https://ordinals.com/inscription/fb8993e3b69a1b9239fc2e2e3694ad07f5064af55e73641e4c260b5797dedf08i0) | none | rare sat identifier | [zedzeroth](https://x.com/ZedZeroth/status/1878180601628348742)
+| JSZip v3.10.1 | [Link](https://ordinals.com/inscription/372c5388030820daed356d25d7a1218d0b88d78a6d051d27c91d0f25ac4c3c5ei0) | js | | [Inscripedia](https://x.com/Inscripedia)
 
 ## CSS Frameworks
 To style your HTML inscriptions
