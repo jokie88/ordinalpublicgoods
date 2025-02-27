@@ -126,6 +126,7 @@ To style your HTML inscriptions
 | Mode7 | [Link](https://ordinals.com/inscription/4c97967f86b38836a5bbbbce27a281135b2b659d2e709126945665fff22e48c0i0) | woff | | [The Function](http://function.gallery/)
 | RuneOrd | [Link](https://ordinals.com/inscription/dbbbb2f54642010d372127dad98cbe15b9dc3afd4d2656fad81ed43a2e1b0da4i0) | woff2 | [Usage](https://x.com/asciitoshi/status/1778098853897510979) | [asciitoshi](https://twitter.com/asciitoshi)
 | Cabal | [Link](https://ordinals.com/inscription/e41d23e435aa7c9881d7073c1f96f511140a9558bbd229b1c786a0647f6fdb57i0) | json | ![preview](https://github.com/carlosmarcial/ordinalpublicgoods/blob/main/font_previews/cabal-preview.png) | [LJ Design Studios](https://ljdesignstudios.com/) 
+| BethEllen Regular | [Link](https://ordinals.com/inscription/facef46f68ff89df1e00079dc6d75a0ff7705375c014165a70f99c3ea6563a4ei0) | font/ttf | | [shxtcoinwhale](https://github.com/shxtcoinwhale)) 
 
 ## Bitcoin testnet
 | Name | Inscription | Format | Notes | Source | 
