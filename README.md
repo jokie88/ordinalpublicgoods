@@ -30,6 +30,7 @@ Packages to help make generative art on Bitcoin 🟧
 | p5.js 1.9.2 (brotli) | [Link](https://ordinals.com/inscription/7e37766541506810ba6399c4b2735121f508bd9209df43dd200bf2316b014594i0) | ord/br | see [example](https://github.com/TheWizardsOfOrd/Elements/blob/main/examples/p5js/standalone/example.html) | [The Wizards of Ord Elements](https://github.com/TheWizardsOfOrd/Elements)
 | p5.js 1.9.2 ( not zipped) | [Link]([https://ordinals.com/inscription/7e37766541506810ba6399c4b2735121f508bd9209df43dd200bf2316b014594i0) | none |  | [Billy?]
 | p5.js-sound-min 1.0.2 | [Link](https://ordinals.com/inscription/935801da5aaeab291b68748b4ccb315f35a88b16096125db45899f2085d727c5i0) | none | see [example](https://p5js.org/examples/) | [Kanetix]
+| p5.js 1.11.2 (brotli) | [Link](https://ordinals.com/inscription/13a5c8e41dfc110514b450b2f15317988c0aaf276d3dbdcca9aa3c7d0b2188a7i0) | Brotli  | [example](https://github.com/TheWizardsOfOrd/Elements/tree/main) | [TheWizardsOfOrd](https://x.com/TheWizardsOfOrd)
 | matter0js 0.19.0 | [Link](https://ordinals.com/inscription/9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0) | none | | [found on ord.io](https://www.ord.io/11774132)
 | webGL-fluid-simulation | [Link](https://ordinals.com/inscription/3af8500b444c7f589fca666fe317e1f95c7226d49dc23f8a4b86093f01f3e7adi0) | none | | [found on ord.io](https://www.ord.io/11846310)
 | tone.js 14.7.77? | [Link](https://ordinals.com/inscription/44740a1f30efb247ef41de3355133e12d6f58ab4dc8a3146648e2249fa9c6a39i0) | none | | [found on ord.io](https://www.ord.io/13316104)
@@ -127,6 +128,7 @@ To style your HTML inscriptions
 | Mode7 | [Link](https://ordinals.com/inscription/4c97967f86b38836a5bbbbce27a281135b2b659d2e709126945665fff22e48c0i0) | woff | | [The Function](http://function.gallery/)
 | RuneOrd | [Link](https://ordinals.com/inscription/dbbbb2f54642010d372127dad98cbe15b9dc3afd4d2656fad81ed43a2e1b0da4i0) | woff2 | [Usage](https://x.com/asciitoshi/status/1778098853897510979) | [asciitoshi](https://twitter.com/asciitoshi)
 | Cabal | [Link](https://ordinals.com/inscription/e41d23e435aa7c9881d7073c1f96f511140a9558bbd229b1c786a0647f6fdb57i0) | json | ![preview](https://github.com/carlosmarcial/ordinalpublicgoods/blob/main/font_previews/cabal-preview.png) | [LJ Design Studios](https://ljdesignstudios.com/) 
+| BethEllen Regular | [Link](https://ordinals.com/inscription/facef46f68ff89df1e00079dc6d75a0ff7705375c014165a70f99c3ea6563a4ei0) | font/ttf | ![preview](https://github.com/shxtcoinwhale/ordinalpublicgoods/blob/main/font_previews/bethellen-preview.png)| [shxtcoinwhale](https://github.com/shxtcoinwhale)
 
 ## Bitcoin testnet
 | Name | Inscription | Format | Notes | Source | 
